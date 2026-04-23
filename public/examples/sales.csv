@@ -1,0 +1,10 @@
+date,region,product,units,revenue
+2025-01-03,West,Widgets,120,2840
+2025-01-08,East,Widgets,95,2232
+2025-01-09,South,Gadgets,45,1980
+2025-01-12,North,Widgets,76,1812
+2025-01-14,West,Gadgets,52,2288
+2025-01-17,East,Doohickeys,33,924
+2025-01-20,South,Widgets,101,2424
+2025-01-22,North,Gadgets,60,2640
+2025-01-25,West,Doohickeys,40,1120

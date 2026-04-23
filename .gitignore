@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+coverage
+*.log
+ignored
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+vitest.setup.js
+vitest.setup.d.ts

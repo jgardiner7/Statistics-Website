@@ -1,0 +1,4 @@
+export const ANALYSIS_MAX_ROWS = 200_000;
+export const PROFILE_SQL_MAX_ROWS = 200_000;
+export const CHART_QUERY_MAX_ROWS = 50_000;
+export const OLS_DIAGNOSTIC_MAX_POINTS = 5_000;
